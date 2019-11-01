@@ -155,7 +155,7 @@ body, html {
 
 .hero-img-center {
     /* The image used */
-    background-image: url("images/patrick-hendry-pBb4HvRpglo-unsplash.jpg");
+    background-image: url("images/dan-burton-tJuF_siTxJw-unsplash.jpg");
 
     /* Set a specific height */
     height: 400px;
@@ -166,7 +166,7 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
-.paral-text {
+.hero-center-text {
     text-align: center;
     position: relative;
     top: 50%;
@@ -175,7 +175,7 @@ body, html {
     color: white;
     font-size: 15pt;
 }
-.paral-button {
+.hero-center-button {
     border: none;
     margin-top: 15px;
     border-radius: 2px;
@@ -191,7 +191,7 @@ body, html {
     font-family: 'Oxygen', sans-serif;
 }
 
-.paral-button:hover {
+.hero-center-button:hover {
     background-color: #555;
     color: white;
 }
